@@ -14,8 +14,8 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://yed.yworks.com/support/manual/index.html</docsUrl>
     <tags>yEd-nojre yEd graph editor</tags>
-    <summary>yEd Graph Editor This package version has no JRE dependency and relies on your providing your own flavour of Java JRE or JDK as you wish </summary>
-    <description>s a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button.</description>
+    <summary>yEd Graph Editor - This package version has no Chocolatey Java JDK or JRE dependency enforced and relies on your providing your own flavour of Java JRE or JDK as you wish to support the running of the software </summary>
+    <description>yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button.</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

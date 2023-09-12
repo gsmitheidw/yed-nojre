@@ -6,7 +6,7 @@ $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   unzipLocation = $env:ProgramFiles
   url           = $url
-  softwareName  = 'yed-nojre*' #part or all of the Display Name as you see it in Programs and Features. It should be enough to be unique
+  softwareName  = 'yed-nojre*' 
   checksum      = '4F96611718DF696DE2F33EEB2CD78BFBBDACCE52390AFEA8D00441B6FB175E20'
   checksumType  = 'sha256'
 }
