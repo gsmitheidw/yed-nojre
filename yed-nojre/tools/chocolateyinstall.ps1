@@ -25,7 +25,7 @@ if ((Get-Command javaw -ErrorAction SilentlyContinue).Name -eq 'javaw.exe') {
 	  -TargetPath "$javapath" `
 	  -WorkingDirectory "$env:ProgramFiles\yed-3.23.2" `
 	  -Arguments '-jar yed.jar' `
-	  -IconLocation "$env:ProgramFiles\yed-3.23.2\yed.ico" `
+	  -IconLocation "$env:ProgramFiles\yed-3.23.2\icons\yed.ico" `
 	  -Description 'yEd Graphing Editor'
 
 }
