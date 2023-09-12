@@ -1,2 +1,5 @@
 # yed-nojre
-Chocolatey Package for yED without a specific Java JRE depedency
+
+yEd [Chocolatey](https://www.chocolatey.org) package by yWorks GMBH packaged for Chocolatey deployment without any Chocolatey level Java dependency. 
+
+
